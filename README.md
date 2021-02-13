@@ -1,0 +1,4 @@
+- Python weather in Finland program 
+- SQLite database
+- Screen scraping from Finnish Meteorological Institute
+- Program works 2/2021, but if FMI makes structural changes on the web page it could stop working
